@@ -10,7 +10,7 @@ The Hackathon must:
 - Add value to the NHS / our service users​
 - Be ethical and responsible
 - Use public or synthetic data sources only ​
-- Published publicly
+- Be published publicly
 
 ### Hackathon Timelines
 - Community Survey Launched on 18/10/23
