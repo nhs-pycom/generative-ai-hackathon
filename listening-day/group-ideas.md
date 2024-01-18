@@ -13,7 +13,7 @@ Patient notification information tailoring (language and comprehension level) wi
 - Tailored printed info + interactive online info
 
 #### Sketch
-[TO INSERT]
+![Group 1 Sketch of Idea](./sketches/group1dark.png)
 
 ---
 
@@ -25,7 +25,7 @@ Patient notification information tailoring (language and comprehension level) wi
 Medical students learn how to break bad news to patients. This could be used to help students learn how to do that. Tailored for different personalities and types of conversations.
 
 #### Sketch
-[TO INSERT]
+![Group 2 Sketch of Idea](./sketches/group2dark.png)
 
 ### Use case canvas
 #### User Focused
@@ -102,7 +102,7 @@ TTS/ASR could be harder in demo
 Actionable information to mobilise relevant team in a prioritised way
 
 #### Sketch
-[TO INSERT]
+![Group 3 Sketch of Idea](./sketches/group3dark.png)
 
 ### Use case canvas
 #### User Focused
