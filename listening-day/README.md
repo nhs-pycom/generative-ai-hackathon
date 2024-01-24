@@ -10,7 +10,7 @@
 | 10:15 - 10:30 | Objectives, Guardrails, and How-Might-We’s | Adam / Tracey |
 | 10:30 - 11:00 | Large Language Models Introduction | Adam |
 | 11:00 - 11:30 | Coffee and a Chat |  |
-| 11:30 - 13:00 | Survey Use-cases Readout and Discussion | Mary / Dan / Sophie |
+| 11:30 - 13:00 | Survey Use-cases Readout and Discussion | Mary / Dan / Sophie - [Slides](./NHSpycom_LLM_survey_discussion_Dec2023.pdf) |
 | 13:00 - 13:15 | Assemble HMW Statements |  |
 | 13:15 - 14:00 | LUNCH (and think about our HMWs) |  |
 | 14:00 - 14:15 | Reassemble and Form Discussion Groups Around Themes |  |
@@ -28,10 +28,10 @@ They should:
 - Not be too broad or too narrow
 - Try to Focus on desired outcome (e.g. feeling confident about results)
 
-### Documents from the Day:
+### From the Day:
 
 - [HMW - Longlist](./hmw-longlist.md)
-- [Problem Areas](./problem-areas.md)
-- [Group Ideas](./group-ideas.md)
+- [Identified Problem Areas](./problem-areas.md)
+- [Generated Group Ideas](./group-ideas.md)
 
-Also included some [Extra Notes](./extra-notes.md) from the day from discussions and feedback.
+Also included some [Extra Notes](./extra-notes.md) from discussions and feedback during the day.
