@@ -142,7 +142,7 @@ Diagnostic analyst: Which SMEs do I need to speak to for xyz
 Re. SMEs - There is SME information documented for this in PDFs
 
 #### Sketch
-[TO INSERT]
+![Group 4 Sketch of Idea](./sketches/group4dark.png)
 
 ### Use case canvas
 #### Value Proposition
@@ -183,7 +183,7 @@ QUERY: Example template from clinical team
 Reduced time spent reviewing coding data
 
 #### Sketch
-[TO INSERT]
+![Group 5 Sketch of Idea](./sketches/group5dark.png)
 
 ### Use case canvas
 #### User Focused
@@ -244,7 +244,7 @@ Provides speedy access to bigger strategic picture for execs and analysts to ext
 - More consistencies of narrative generation
 
 #### Sketch
-[TO INSERT]
+![Group 6 Sketch of Idea](./sketches/group6dark.png)
 
 ### Use case canvas
 #### User Focused
@@ -325,7 +325,7 @@ Show example queries
 - Analysts themselves to check through the “meaning” of the reports they are producing
 
 #### Sketch
-[TO INSERT]
+![Group 7 Sketch of Idea](./sketches/group7dark.png)
 
 ### Use case canvas
 #### User Focused
