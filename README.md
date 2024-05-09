@@ -15,7 +15,7 @@ The Hackathon must:
 ### Hackathon Timelines
 - Community Survey Launched on 18/10/23
 - Listening Day held on 06/12/23
-- Hackathon dates to be announced
+- Hackathon 23/05/24-24/05/24
 
 ### Repo Structure
 ```
